@@ -13,9 +13,9 @@
 O projeto tem como objetivo o cálculo da menor distância entre dois aeroportos utilizando algoritmo de Dijkstra.
 
 ## Screenshots
-[!screenshot](img/img1.png)
-[!screenshot](img/img2.png)
-[!screenshot](img/img3.png)
+![img](img/img1.png)
+![img](img/img2.png)
+![img](img/img3.png)
 
 ## Instalação 
 **Linguagem**: Python 2.7<br>
