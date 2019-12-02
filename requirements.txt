@@ -1,0 +1,5 @@
+pandas
+matplotlib
+numpy
+networkx
+https://github.com/matplotlib/basemap/archive/master.zip
